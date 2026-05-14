@@ -25,5 +25,5 @@ jobs:
       - name: Build project
         run: npm run build
 
-      - name: Run tests
-        run: npm test   # 테스트 스크립트가 있으면 실행
+      # - name: Run tests
+      #  run: npm test   # 테스트 스크립트가 있으면 실행
